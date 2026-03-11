@@ -16,6 +16,9 @@
 
 ## Core Concepts Covered
 **Collision Resolution:** Implementing both Chaining and Open Addressing.
+
 **Time Complexity:** Ensuring $O(1)$ average case for high-throughput systems.
+
 **Concurrency:** Using ConcurrentHashMap and synchronization for thread safety.
+
 **Space Optimization:** Managing load factors and memory for millions of entries.
